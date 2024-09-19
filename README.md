@@ -1,0 +1,1 @@
+# BTK_Yapay_Zeka_icin_Python_Programlama_Egitimi
